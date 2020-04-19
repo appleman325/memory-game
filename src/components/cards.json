@@ -1,0 +1,98 @@
+[
+  {
+    "id" : 1,
+    "name" : "mario",
+    "isFound" : false,
+    "isDisplay" : false
+  },
+  {
+    "id" : 2,
+    "name" : "luigi",
+    "isFound" : false,
+    "isDisplay" : false
+  },
+  {
+    "id" : 3,
+    "name" : "peach",
+    "isFound" : false,
+    "isDisplay" : false
+  },
+  {
+    "id" : 4,
+    "name" : "yoshi",
+    "isFound" : false,
+    "isDisplay" : false
+  },
+  {
+    "id" : 5,
+    "name" : "bowser",
+    "isFound" : false,
+    "isDisplay" : false
+  },
+  {
+    "id" : 6,
+    "name" : "captain_toad",
+    "isFound" : false,
+    "isDisplay" : false
+  },
+  {
+    "id" : 7,
+    "name" : "luigi",
+    "isFound" : false,
+    "isDisplay" : false
+  },
+  {
+    "id" : 8,
+    "name" : "hammer_bro",
+    "isFound" : false,
+    "isDisplay" : false
+  },
+  {
+    "id" : 9,
+    "name" : "hammer_bro",
+    "isFound" : false,
+    "isDisplay" : false
+  },
+  {
+    "id" : 10,
+    "name" : "goomba",
+    "isFound" : false,
+    "isDisplay" : false
+  },
+  {
+    "id" : 11,
+    "name" : "bowser",
+    "isFound" : false,
+    "isDisplay" : false
+  },
+  {
+    "id" : 12,
+    "name" : "yoshi",
+    "isFound" : false,
+    "isDisplay" : false
+  },
+  {
+    "id" : 13,
+    "name" : "goomba",
+    "isFound" : false,
+    "isDisplay" : false
+  },
+  {
+    "id" : 14,
+    "name" : "captain_toad",
+    "isFound" : false,
+    "isDisplay" : false
+  },
+  {
+    "id" : 15,
+    "name" : "peach",
+    "isFound" : false,
+    "isDisplay" : false
+  },
+  {
+    "id" : 16,
+    "name" : "mario",
+    "isFound" : false,
+    "isDisplay" : false
+  }
+]

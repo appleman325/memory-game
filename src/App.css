@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -34,5 +34,53 @@
   }
   to {
     transform: rotate(360deg);
+  }
+} */
+
+.card_wrapper {
+  border: 1px solid #1f1f1f;
+  max-width: 200px;
+  margin: 0 auto;
+}
+
+.card_wrapper_bk_red {
+  background-color: red;
+}
+
+.card_wrapper_bk_show {
+  background-color: #eee;
+}
+
+.card_image {
+  max-width: 100%;
+  height: 200px;
+  cursor: pointer;
+  position: relative;
+  z-index: 10;
+}
+
+.d-show {
+  opacity: 1;
+}
+
+.d-hide {
+  opacity: 0;
+}
+
+.card_back {
+  background-image: url("./card_back.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  top: 0;
+  cursor: pointer;
+}
+
+@media (min-width: 768px) and (max-width: 994px) {
+  .card_back {
+    width: 148px !important
   }
 }
