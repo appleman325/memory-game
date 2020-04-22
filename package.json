@@ -1,4 +1,5 @@
 {
+  "homepage": "https://appleman325.github.io/memory-game",
   "name": "memory-game",
   "version": "0.1.0",
   "private": true,
@@ -36,6 +37,5 @@
   },
   "devDependencies": {
     "gh-pages": "^2.2.0"
-  },
-  "homepage": "http://appleman325.github.io/memory-game"
+  }
 }
