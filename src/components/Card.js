@@ -9,7 +9,7 @@ class Card extends Component {
   render() {
     const { handleClick, name, cardId, isDisplay } = this.props;
 
-    const cardImgUrl = '/images/' + name + '.png';
+    const cardImgUrl = 'images/' + name + '.png';
 
     const imgClass = 'card_image ' + (isDisplay ? 'd-show' : 'd-hide');
 
